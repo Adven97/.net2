@@ -1,0 +1,7 @@
+C:\Users\Adven97\Desktop\DynamicznaTablica\DynamicznaTablica\bin\Debug\DynamicznaTablica.exe.config
+C:\Users\Adven97\Desktop\DynamicznaTablica\DynamicznaTablica\bin\Debug\DynamicznaTablica.exe
+C:\Users\Adven97\Desktop\DynamicznaTablica\DynamicznaTablica\bin\Debug\DynamicznaTablica.pdb
+C:\Users\Adven97\Desktop\DynamicznaTablica\DynamicznaTablica\obj\Debug\DynamicznaTablica.csprojAssemblyReference.cache
+C:\Users\Adven97\Desktop\DynamicznaTablica\DynamicznaTablica\obj\Debug\DynamicznaTablica.csproj.CoreCompileInputs.cache
+C:\Users\Adven97\Desktop\DynamicznaTablica\DynamicznaTablica\obj\Debug\DynamicznaTablica.exe
+C:\Users\Adven97\Desktop\DynamicznaTablica\DynamicznaTablica\obj\Debug\DynamicznaTablica.pdb
