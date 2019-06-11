@@ -1,0 +1,7 @@
+C:\Users\Adven97\source\repos\dynamicArray\dynamicArray\bin\Debug\dynamicArray.exe.config
+C:\Users\Adven97\source\repos\dynamicArray\dynamicArray\bin\Debug\dynamicArray.exe
+C:\Users\Adven97\source\repos\dynamicArray\dynamicArray\bin\Debug\dynamicArray.pdb
+C:\Users\Adven97\source\repos\dynamicArray\dynamicArray\obj\Debug\dynamicArray.csprojAssemblyReference.cache
+C:\Users\Adven97\source\repos\dynamicArray\dynamicArray\obj\Debug\dynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\Adven97\source\repos\dynamicArray\dynamicArray\obj\Debug\dynamicArray.exe
+C:\Users\Adven97\source\repos\dynamicArray\dynamicArray\obj\Debug\dynamicArray.pdb
